@@ -24,4 +24,4 @@ BirthPlan<sup>+</sup>Subscrybebe は、未来の社会において「子供を�
 4. **セキュリティ実装 (Honeypot)**<br>
    スパム攻撃からシステムを守るため、人間の目には見えないがボットが反応してしまう Honeypotフィールドを設置。ボットによる無差別なデータ入力を効果的に遮断しています。
 ## デザイン | Design
-[homepage](docs/01-homepage.png)
+![homepage](docs/01-homepage.png)
