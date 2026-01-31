@@ -6,7 +6,7 @@ BirthPlan<sup>+</sup>Subscrybebe は、未来の社会において「子供を�
 このプロジェクトは、単なるWebデザインではなく、現代社会に潜む以下の三角関係に対する皮肉を目的としています。
 1. **生育の商品化 (Commodification of Birth)**
 2. **貧富の格差 (Wealth Disparity)**
-3. **階級の複製 (Class Reproduction)**
+3. **階級の複製 (Class Reproduction)** <br>
 「理想の子供を作る」という体験を通じて、将来起こりうる恐ろしい階級固定化のメタファーを視覚化し、ユーザーに倫理的な問いを投げかけます。
 ## システム構成 | System Architecture
 このプロジェクトは、ユーザーに「実在するサービス」であると錯覚させるため、高度なバックエンド自動化を実装しています。
