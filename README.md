@@ -1,3 +1,4 @@
+[繁體中文](./README_zh.md) | [日本語](./README.md)
 # BirthPlan<sup>+</sup>Subscrybebe
 未来の「育児サブスクリプション」サービスを提供する架空会社のWebサイト<br>
 [BirthPlan<sup>+</sup>Subscrybebe](https://birthplansubscrybebe.web.app/#/)
